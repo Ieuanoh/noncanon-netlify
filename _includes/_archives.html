@@ -1,0 +1,32 @@
+<article class="w-100 pt3-ns pt2">
+  {% include _page-title.html %}
+
+    {% for post in paginator.posts limit: 10 %}
+
+      <div class="mw-100 pv4 ph2 system-sans-serif">
+
+        <a class="no-underline black-90" href="{{ post.url }}"><h2 class="f3 fw2 courier" title="{{post.title}}">{{post.title}}</h2></a>
+        <p class="f5 lh-copy">
+          {{ post.excerpt | strip_html | truncatewords:75 }}
+        </p>
+          <date class="fw6" datetime="{{post.date}}">{{ post.date | date_to_long_string }}</date><br /><br />
+          <a class="orange fw3 f5 courier" href="{{ site.baseurl }}{{ post.url }}">Read More</a>
+      </div>
+    {% endfor %}
+
+</article>
+
+<!-- Pagination links -->
+<div class="pagination courier">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>

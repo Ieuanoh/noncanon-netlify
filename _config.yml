@@ -1,0 +1,42 @@
+#Site title
+title: "Non Canon"
+
+# This will be the first part of the title tag for your site <title> site.name + page.title </title>
+name: "Non Canon"
+# Populates the meta description for the site. Should be under 150 characters for best SEO purposes.
+description: "Non Canon test site"
+
+# Owner (organization or individual) of site content
+author: "NonCanon"
+
+#baseUrl -for prject page
+
+
+#url: http://
+url: "http://localhost:4000/noncanon"
+
+# Your UA tracking number (i.e 35858753-1) for Google Analytics.
+# If you comment this out, or don't fill out this parameter - Google analytics won't be included.
+googleID:
+
+# Pagination variable for how many posts to show in a list
+paginate: 10
+paginate_path: "/blog/page:num/"
+
+
+# Style of permalinks
+permalink: blog/:title
+
+# Variable format options for URL styles below
+# pretty                                          => /2009/04/29/slap-chop/index.html
+# /:month-month:day-:year/:title.html/            => 04-29-2009/slap-chop.html
+# /blog/:yearr/:month/:day/:title                 => /blog/2009/04/29/slap-chop/index.html
+
+# UnComment once you have pygments installed. Used for code syntax highlighting.
+#pygments: true
+
+exclude: [Rakefile]
+
+# Plugins
+
+plugins: [jekyll-paginate]

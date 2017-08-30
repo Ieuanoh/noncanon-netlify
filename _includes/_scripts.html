@@ -1,0 +1,45 @@
+<!-- Scripts-->
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<!--<script src="{{site.baseurl}}/js/noframework.waypoints.min.js"></script>
+<script src="{{site.baseurl}}/js/jquery.waypoints.min.js"></script>
+<script src="{{site.baseurl}}/js/sticky.js"></script>
+
+<script>
+  var sticky = new Waypoint.Sticky({
+    element: $('#nc-logo')[0],
+    offset: 15
+  });
+</script>
+-->
+
+<!--Mob nav toggle-->
+
+<script type="text/javascript">
+  // hide/show menu
+  var button = document.querySelector('#nav-menu');
+  var menu = document.querySelector('#nav-wrapper');
+  var close = document.querySelector('#nav-close');
+  button.addEventListener('click', function(event) {
+    if (menu.style.display == "") {
+      menu.style.display = "block";
+      $("body").addClass("locked");
+
+    } else {
+      menu.style.display = "block";
+      $("body").addClass("locked");
+    }
+  });
+
+  close.addEventListener('click', function(event) {
+    if (menu.style.display == "block") {
+      menu.style.display = "none";
+      $("body").removeClass("locked");
+
+    } else {
+      menu.style.display = "";
+      $("body").removeClass("locked");
+
+    }
+  });
+</script>
