@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-30T01:36:27+01:00</updated><id>http://localhost:4000/</id><title type="html">Non Canon</title><subtitle>Non Canon test site</subtitle><author><name>NonCanon</name></author><entry><title type="html">Photo Template</title><link href="http://localhost:4000/blog/quote-post" rel="alternate" type="text/html" title="Photo Template" /><published>2015-05-20T00:00:00+01:00</published><updated>2015-05-20T00:00:00+01:00</updated><id>http://localhost:4000/blog/quote-post</id><content type="html" xml:base="http://localhost:4000/blog/quote-post">&lt;img src=&quot;/img/photo.jpg&quot;&gt;
+&lt;p&gt;
+  A photo caption.
+&lt;/p&gt;</content><author><name>Adam</name></author><summary type="html">A photo caption.</summary></entry><entry><title type="html">JKL</title><link href="http://localhost:4000/blog/introducing-jkl" rel="alternate" type="text/html" title="JKL" /><published>2015-01-01T00:00:00+00:00</published><updated>2015-01-01T00:00:00+00:00</updated><id>http://localhost:4000/blog/introducing-jkl</id><content type="html" xml:base="http://localhost:4000/blog/introducing-jkl">&lt;p&gt;
+  Introducing JKL - a lightweight boilerplate for creating a responsive Jekyll blog. Minimal styles focused on readability.
+  You shouldn't have to do busy work to get going. After filling out a few small details in the config file, the only thing you need
+  to do to start writing is...write. Start dropping markdown or html files into the posts directory, run Jekyll, and deploy.
+&lt;/p&gt;
+&lt;p&gt;
+  JKL is comprised of ~5kb of responsive type friendly CSS. No JS needed. When I say light, I mean light. 
+  It doesn't get much lighter than that. 
+&lt;/p&gt;
+&lt;p&gt;
+  Typography is ace.
+  &lt;!--http://en.wikipedia.org/wiki/Robert_Bringhurst--&gt;
+  Default body copy is set to 20px.
+  &lt;!--http://jxnblk.tumblr.com/post/41796724549/im-sick-of-your-tiny-tiny-type--&gt;
+  &lt;!--https://twitter.com/jxnblk/status/281087996663582720--&gt;
+  Works on big desktops and small mobile phones.
+&lt;/p&gt;</content><author><name>MRMRS</name></author><summary type="html">Introducing JKL - a lightweight boilerplate for creating a responsive Jekyll blog. Minimal styles focused on readability. You shouldn't have to do busy work to get going. After filling out a few small details in the config file, the only thing you need to do to start writing is...write. Start dropping markdown or html files into the posts directory, run Jekyll, and deploy. JKL is comprised of ~5kb of responsive type friendly CSS. No JS needed. When I say light, I mean light. It doesn't get much lighter than that. Typography is ace. Default body copy is set to 20px. Works on big desktops and small mobile phones.</summary></entry><entry><title type="html">Style Guide</title><link href="http://localhost:4000/blog/styles" rel="alternate" type="text/html" title="Style Guide" /><published>2014-04-04T00:00:00+01:00</published><updated>2014-04-04T00:00:00+01:00</updated><id>http://localhost:4000/blog/styles</id><content type="html" xml:base="http://localhost:4000/blog/styles">&lt;h1&gt;Header One&lt;/h1&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;h2&gt;Header Two&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;h3&gt;Header Three&lt;/h3&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;h4&gt;Header Four&lt;/h4&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;h5&gt;Header Five&lt;/h5&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;h6&gt;Header Six&lt;/h6&gt;
+&lt;p&gt;
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    List Item Number One
+  &lt;/li&gt;
+  &lt;li&gt;
+    List Item Number Two
+  &lt;/li&gt;
+  &lt;li&gt;
+    List Item Number Three
+  &lt;/li&gt;
+  &lt;li&gt;
+    List Item Number Four
+  &lt;/li&gt;
+  &lt;li&gt;
+    List Item Number Five
+  &lt;/li&gt;
+  &lt;li&gt;
+    List Item Number Six
+  &lt;/li&gt;
+  &lt;li&gt;
+    List Item Number Seven
+  &lt;/li&gt;
+  &lt;li&gt;
+    List Item Number Eight
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;Test Term&lt;/dt&gt;
+  &lt;dd&gt;Test Description&lt;/dd&gt;
+  &lt;dt&gt;:e filename&lt;/dt&gt;
+  &lt;dd&gt;Open filename for edition&lt;/dd&gt;
+  &lt;dt&gt;Test term that is a bit longer than some of the others.&lt;/dt&gt;
+  &lt;dd&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/dd&gt;
+  &lt;dt&gt;What is reality&lt;/dt&gt;
+  &lt;dd&gt;Reality is that which, when you stop believing in it, doesn't go away.&lt;/dd&gt;
+  &lt;dt&gt;Test Term&lt;/dt&gt;
+  &lt;dd&gt;Test Description&lt;/dd&gt;
+  &lt;dt&gt;Test Term&lt;/dt&gt;
+  &lt;dd&gt;Test Description&lt;/dd&gt;
+  &lt;dt&gt;Test Term&lt;/dt&gt;
+  &lt;dd&gt;Test Description&lt;/dd&gt;
+  &lt;dt&gt;Test Term&lt;/dt&gt;
+  &lt;dd&gt;Test Description&lt;/dd&gt;
+  &lt;dt&gt;Test Term&lt;/dt&gt;
+  &lt;dd&gt;Test Description&lt;/dd&gt;
+  &lt;dt&gt;Test Term&lt;/dt&gt;
+  &lt;dd&gt;Test Description&lt;/dd&gt;
+  &lt;dt&gt;Test Term&lt;/dt&gt;
+  &lt;dd&gt;Test Description&lt;/dd&gt;
+&lt;/dl&gt;</content><author><name>Adam</name></author><summary type="html">Header One Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Header Two Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Header Three Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Header Four Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Header Five Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Header Six Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</summary></entry><entry><title type="html">A Post About Coding Things with Examples</title><link href="http://localhost:4000/blog/post-future-example" rel="alternate" type="text/html" title="A Post About Coding Things with Examples" /><published>2014-02-14T00:00:00+00:00</published><updated>2014-02-14T00:00:00+00:00</updated><id>http://localhost:4000/blog/post-future-example</id><content type="html" xml:base="http://localhost:4000/blog/post-future-example">&lt;p&gt;
+  We call it the after after after party.
+&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/oZxfCjm1sAE&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;CSS Code&lt;/h2&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;  &lt;span class=&quot;nc&quot;&gt;.ct-r&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nl&quot;&gt;text-align&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;center&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;err&quot;&gt;@include&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;breakpoint(one-hand)&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;nl&quot;&gt;text-align&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;err&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h2&gt;Ruby Code&lt;/h2&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;  &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;KeychainPromotion&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;initialize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;purchase_process&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+      &lt;span class=&quot;vi&quot;&gt;@purchase_process&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;purchase_process&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;sign_up_for_mailing_list&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;customer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+      &lt;span class=&quot;no&quot;&gt;MailingList&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;customer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+      &lt;span class=&quot;n&quot;&gt;keychain&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Product&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;find&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;promo-keychain&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+      &lt;span class=&quot;vi&quot;&gt;@purchase_process&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;purchase_product&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;customer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;keychain&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>NonCanon</name></author><summary type="html">We call it the after after after party.</summary></entry><entry><title type="html">A Really Long Title for a Post Because Layouts Need to be Tested Thoroughly and Often</title><link href="http://localhost:4000/blog/a-really-really-long-title-for-a-post-because-layouts-need-to-be-tested" rel="alternate" type="text/html" title="A Really Long Title for a Post Because Layouts Need to be Tested Thoroughly and Often" /><published>2013-09-22T00:00:00+01:00</published><updated>2013-09-22T00:00:00+01:00</updated><id>http://localhost:4000/blog/a-really-really-long-title-for-a-post-because-layouts-need-to-be-tested</id><content type="html" xml:base="http://localhost:4000/blog/a-really-really-long-title-for-a-post-because-layouts-need-to-be-tested">&lt;img src=&quot;img/photo.jpg&quot;&gt;
+&lt;p&gt;
+  A photo caption.
+&lt;/p&gt;</content><author><name>NonCanon</name></author><summary type="html">A photo caption.</summary></entry><entry><title type="html">Naming Things is Hard</title><link href="http://localhost:4000/blog/naming-things-is-hard" rel="alternate" type="text/html" title="Naming Things is Hard" /><published>2013-03-17T00:00:00+00:00</published><updated>2013-03-17T00:00:00+00:00</updated><id>http://localhost:4000/blog/naming-things-is-hard</id><content type="html" xml:base="http://localhost:4000/blog/naming-things-is-hard">&lt;blockquote&gt;
+  &lt;p&gt;There are only two hard things in Computer Science: cache invalidation and naming things.&lt;/p&gt;
+  &lt;footer&gt;
+    — &lt;a href=&quot;http://en.wikipedia.org/wiki/X_Window_System&quot;&gt;Phil Karlton&lt;/a&gt;
+  &lt;/footer&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;   
+  Naming things &lt;em&gt;is&lt;/em&gt; hard. It's also, very important. The people who read your code later 
+  (most likely, you) - will thank you. I don't write code with the goal of never having 
+  to change it. I write it with the intention of being able to change it quickly and easily 
+  in the future. Being able to quickly read/understand the code, will allow for this to be a 
+  reality. The first step in this, is naming things well.
+&lt;/p&gt;  
+&lt;p&gt;
+  When I'm naming variables - I normally write them down (with an actual pen --gasp-- ), on 
+  post-it notes and stick them to my monitor. Every hour or so I'll glance at them and 
+  see what jumps out at me. Often times my most critical/constructive thoughts are within the first 4 
+  seconds. When I don't do this, I invent a series of variable names that are tied for first 
+  place in horribleness.
+&lt;/p&gt;   
+&lt;p&gt;
+  variable_19, portW, curr, navCURR, currLeft, pos2, and one of my real gems... 
+  to_do_changeLater.Those are actual variable names from slop that I have written. I named these variables in 
+  haste. And now I have no idea what data they store. How could I expect anyone else 
+  to have any semblence of a fucking clue what my shitty variables are storing behind their thick veiled walls. 
+  Variable names like this are basically keeping secrets from the reader. Great variable names don't keep 
+  secrets. They stand at the tops of mountains and broadcast to the world in big neon lights what they're up to.
+&lt;/p&gt;
+&lt;p&gt;
+  Important points from other people:
+  Variables are our first step in the notion of abstraction
+&lt;/p&gt;
+&lt;p&gt;
+  Data and Data2
+  http://www.oreillynet.com/onlamp/blog/2004/03/the_worlds_two_worst_variable.html
+&lt;/p&gt;</content><author><name>Adam M.</name></author><summary type="html">There are only two hard things in Computer Science: cache invalidation and naming things. — Phil Karlton Naming things is hard. It's also, very important. The people who read your code later (most likely, you) - will thank you. I don't write code with the goal of never having to change it. I write it with the intention of being able to change it quickly and easily in the future. Being able to quickly read/understand the code, will allow for this to be a reality. The first step in this, is naming things well. When I'm naming variables - I normally write them down (with an actual pen --gasp-- ), on post-it notes and stick them to my monitor. Every hour or so I'll glance at them and see what jumps out at me. Often times my most critical/constructive thoughts are within the first 4 seconds. When I don't do this, I invent a series of variable names that are tied for first place in horribleness. variable_19, portW, curr, navCURR, currLeft, pos2, and one of my real gems... to_do_changeLater.Those are actual variable names from slop that I have written. I named these variables in haste. And now I have no idea what data they store. How could I expect anyone else to have any semblence of a fucking clue what my shitty variables are storing behind their thick veiled walls. Variable names like this are basically keeping secrets from the reader. Great variable names don't keep secrets. They stand at the tops of mountains and broadcast to the world in big neon lights what they're up to. Important points from other people: Variables are our first step in the notion of abstraction Data and Data2 http://www.oreillynet.com/onlamp/blog/2004/03/the_worlds_two_worst_variable.html</summary></entry><entry><title type="html">An Essay About Design</title><link href="http://localhost:4000/blog/smarter-defaults" rel="alternate" type="text/html" title="An Essay About Design" /><published>2013-03-08T00:00:00+00:00</published><updated>2013-03-08T00:00:00+00:00</updated><id>http://localhost:4000/blog/smarter-defaults</id><content type="html" xml:base="http://localhost:4000/blog/smarter-defaults">&lt;blockquote&gt;
+  &lt;p&gt;I'm tired of saying I want a medium coffee. Everyone wants a medium coffee. I should only have to clarify if I want something else.&lt;/p&gt;
+  &lt;footer&gt;
+  - &lt;a href=&quot;&quot;&gt;jxnblk&lt;/a&gt;
+  &lt;/footer&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+  We need smarter defaults. Everywhere.  
+&lt;/p&gt;</content><author><name>Adam Morse</name></author><summary type="html">I'm tired of saying I want a medium coffee. Everyone wants a medium coffee. I should only have to clarify if I want something else. - jxnblk We need smarter defaults. Everywhere.</summary></entry></feed>
