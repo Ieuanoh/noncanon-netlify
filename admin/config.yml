@@ -27,4 +27,6 @@ collections:
         label: "Home Page"
         name: "Home"
         fields:
-          - {label: "Bio Text", name: "homepage-text", widget: "markdown"}
+          - {label: "Bio Text p1", name: "homepage-text-1", widget: "markdown"}
+          - {label: "Bio Text p2", name: "homepage-text-2", widget: "markdown"}
+          - {label: "Bio Text p3", name: "homepage-text-3", widget: "markdown"}
