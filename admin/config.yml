@@ -27,3 +27,4 @@ collections:
           - {label: "Bio Text p1", name: "homepage-text-1", widget: "markdown"}
           - {label: "Bio Text p2", name: "homepage-text-2", widget: "markdown"}
           - {label: "Bio Text p3", name: "homepage-text-3", widget: "markdown"}
+          - {label: "Bio Text p3", name: "homepage-text-4", widget: "markdown"}
